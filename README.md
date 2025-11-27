@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Hailey9164
+- 🏫 I'm a student at California State Polytechnic University, Pomona. 
 - 👀 I’m interested in computer science. 
-- 🌱 I’m currently learning c# for game development and c for systems programming. 
+- 🌱 I’m currently learning c# for game development and c for systems programming.
+- 💻 I have knowledge in C++, Java, JavaScript, and Python.
 
 <!---
 Hailey9164/Hailey9164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
