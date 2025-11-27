@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Hailey9164
 - 👀 I’m interested in computer science. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c# for game development and c for systems programming. 
 
 <!---
 Hailey9164/Hailey9164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
